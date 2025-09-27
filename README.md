@@ -3,7 +3,8 @@
 ### Dashboard Link
 [Covid-19 India Analysis – Tableau Public](https://public.tableau.com/app/profile/amith.gowda.s/viz/Covid19Analysis_17590053856060/Dashboard1)
 
-Dashboard:
+Dashboard:<img width="2249" height="1374" alt="Dashboard 1" src="https://github.com/user-attachments/assets/11b2c18f-5958-4ebc-9f41-a63f5fb5d9ab" />
+
 
 ---
 
@@ -47,16 +48,20 @@ Key questions addressed include:
 ## Snapshots of Dashboard
 
 ### [1] State-wise Death Map
-![State-wise Death Map](https://via.placeholder.com/800x400.png?text=Statewise+Deaths)
+<img width="1245" height="777" alt="image" src="https://github.com/user-attachments/assets/5193c9be-c1d0-40f4-a4c7-ec972ce66f02" />
+
 
 ### [2] Age Group Distribution
-![Age Group Distribution](https://via.placeholder.com/800x400.png?text=Age+Group+Details)
+<img width="1442" height="775" alt="image" src="https://github.com/user-attachments/assets/fb048272-e19d-45dd-a6da-4c616fe472a2" />
+
 
 ### [3] Vaccination Progress
-![Vaccination Progress](https://via.placeholder.com/800x400.png?text=Vaccine+Doses)
+<img width="448" height="514" alt="image" src="https://github.com/user-attachments/assets/56eeae2d-8d67-4c2d-aa62-cf77726ba153" />
+
 
 ### [4] Testing by State
-![Testing by State](https://via.placeholder.com/800x400.png?text=State+Testing+Details)
+<img width="1222" height="776" alt="image" src="https://github.com/user-attachments/assets/88503f65-c7bf-443f-b320-53119baece18" />
+
 
 
 
